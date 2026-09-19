@@ -1,11 +1,11 @@
 {
-  "version": "0.1.16",
-  "notes": "Adds annual special-date anniversary reminders, shared special-date memories, and accurate Spotify top-played totals.",
-  "pub_date": "2026-09-19T23:30:00.000Z",
+  "version": "0.1.17",
+  "notes": "Adds selectable fonts, custom accent colors, background styles, and removes legacy Google widgets.",
+  "pub_date": "2026-09-19T23:55:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMC9MQnhLcWM3M3hjdnUvMEU5Rm9EbGZiM0pYZlJrWmVZRXZMOTE2UG56NGQ4U0pBdnA3ZFptZEp4cThRNHhTWUZreEVkMTRUcWJhbHBDUGRxMUFZdkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU4OTU2CWZpbGU6UHVwcGllc18wLjEuMTZfeDY0LXNldHVwLmV4ZQowS0UwVWNObWp2MzFGQ045VG1UZFNvWk1acDAxSFdKWDBIVHdsbXMvUSs0ZUhkRWRKZUxzYmJncWRWQmpnTXI3ZmtUNGk4Nnc3RTcvYVN4TVBXQmdCQT09Cg==",
-      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.16/Puppies_0.1.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMCs1UGQzaURqVlZDK0NzeS8rRDBXT1I3U2IwVlFCYjRLR000ODJnL1dCYU40Z1VuZGp1ZnFUN3BNZG9RakZCN2lQeHhscHNyVTI5WGkya3IxZHpLTHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU5NzQxCWZpbGU6UHVwcGllc18wLjEuMTdfeDY0LXNldHVwLmV4ZQpLaHo5Y0dhM3M1M0t2bGhnMUpjMlR5VEp3SFNETDdBK0IrcGp4dTk4cityRkZQamtJRHZZRkJFVDc0d1E3dGYrSVhIcVREZm4xQVRvZnJmcHdiLzdDQT09Cg==",
+      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.17/Puppies_0.1.17_x64-setup.exe"
     }
   }
 }
