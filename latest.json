@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
-  "notes": "Adds pet co-parent removal, current co-owner visibility, and clearer left-to-right pet care stats.",
-  "pub_date": "2026-09-19T22:55:00.000Z",
+  "version": "0.1.16",
+  "notes": "Adds annual special-date anniversary reminders, shared special-date memories, and accurate Spotify top-played totals.",
+  "pub_date": "2026-09-19T23:30:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMHprS3daUlVMQU9EZGZsZnVGcVlwUWNQa0RxM1haQ1FRUFhFRXhsZFdvMjBVVDg2MlJOTXdLTmNMK3pVTmR2Nkw3b2FyU1dyMk81M3BISjRwNlA3ZXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU4NDA4CWZpbGU6UHVwcGllc18wLjEuMTVfeDY0LXNldHVwLmV4ZQpQQSsxeng2c1pqZW5CNHZCc0ZxUTM4TG9FUGt5YkFZWVVYV0lSem1GSzV4TEVvREZOK1UyN3VneHpBMTFSNjkxZGRnN2piS2hIWE1SeTkwem96QUtEdz09Cg==",
-      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.15/Puppies_0.1.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMC9MQnhLcWM3M3hjdnUvMEU5Rm9EbGZiM0pYZlJrWmVZRXZMOTE2UG56NGQ4U0pBdnA3ZFptZEp4cThRNHhTWUZreEVkMTRUcWJhbHBDUGRxMUFZdkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU4OTU2CWZpbGU6UHVwcGllc18wLjEuMTZfeDY0LXNldHVwLmV4ZQowS0UwVWNObWp2MzFGQ045VG1UZFNvWk1acDAxSFdKWDBIVHdsbXMvUSs0ZUhkRWRKZUxzYmJncWRWQmpnTXI3ZmtUNGk4Nnc3RTcvYVN4TVBXQmdCQT09Cg==",
+      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.16/Puppies_0.1.16_x64-setup.exe"
     }
   }
 }
