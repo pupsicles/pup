@@ -1,11 +1,6 @@
 {
-  "version": "0.1.17",
-  "notes": "Adds selectable fonts, custom accent colors, background styles, and removes legacy Google widgets.",
-  "pub_date": "2026-09-19T23:55:00.000Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMCs1UGQzaURqVlZDK0NzeS8rRDBXT1I3U2IwVlFCYjRLR000ODJnL1dCYU40Z1VuZGp1ZnFUN3BNZG9RakZCN2lQeHhscHNyVTI5WGkya3IxZHpLTHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU5NzQxCWZpbGU6UHVwcGllc18wLjEuMTdfeDY0LXNldHVwLmV4ZQpLaHo5Y0dhM3M1M0t2bGhnMUpjMlR5VEp3SFNETDdBK0IrcGp4dTk4cityRkZQamtJRHZZRkJFVDc0d1E3dGYrSVhIcVREZm4xQVRvZnJmcHdiLzdDQT09Cg==",
-      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.17/Puppies_0.1.17_x64-setup.exe"
-    }
-  }
+  "version": "0.1.18",
+  "notes": "Fixes startup recovery after removing legacy widgets by migrating saved widget state safely.",
+  "pub_date": "2026-09-20T00:10:00.000Z",
+  "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMDhHTGIxVjg0T1VseTA5UkNOd2l0NUZYc1A3SWFQRHZIditybG8xWkJsOVZ6US95UVZUbzgyclgrN0RwcUZqV1I0T1NyaXFxVWwvWnZ1WjczTXhwMUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYwNDk4CWZpbGU6UHVwcGllc18wLjEuMThfeDY0LXNldHVwLmV4ZQpxalNscU4rRlJPU0FGZEh6YlgxQnp2T3dpSi9VTWU3dkZEc1Z5NjJtNi9LemlrNDFKSEJnU2ZsMTR4aWkwck9xUGRvOTBMK2hLTVBKZU5sVnd2NmdBdz09Cg==", "url": "https://github.com/pupsicles/pup/releases/download/v0.1.18/Puppies_0.1.18_x64-setup.exe"}}
 }
