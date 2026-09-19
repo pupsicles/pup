@@ -1,6 +1,1 @@
-{
-  "version":"0.1.19",
-  "notes":"Adds account-password-protected Journal PIN reset and security hardening.",
-  "pub_date":"2026-09-20T00:30:00.000Z",
-  "platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMDQwVnlrUnZRMzdiY2RBNDMyMWVBNkpOTGtCc3Z0d283TTZ6WTRWWVV3dEk5K1lTblNVNTQwSmI2MUx4SFcwUy9GRnRURWY3VGFyS1VXMk9UU3pqSFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYxNjgxCWZpbGU6UHVwcGllc18wLjEuMTlfeDY0LXNldHVwLmV4ZQppVDljeE5rd2VDbEVoTTk2eU41TllLaVFYZDNCZ1RQaXd0akRZcnArKzBEblkwRW5UKzRZYUlya2JVZGV5N2ZiZW5LandQRitDR2t0ek92QkdHMmFDUT09Cg==","url":"https://github.com/pupsicles/pup/releases/download/v0.1.19/Puppies_0.1.19_x64-setup.exe"}}
-}
+{"version":"0.1.19","notes":"Adds account-password-protected Journal PIN reset and security hardening.","pub_date":"2026-09-20T00:30:00.000Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMDQwVnlrUnZRMzdiY2RBNDMyMWVBNkpOTGtCc3Z0d283TTZ6WTRWWVV3dEk5K1lTblNVNTQwSmI2MUx4SFcwUy9GRnFURWY3VGFyS1VXMk9UU3pqSFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYxNjgxCWZpbGU6UHVwcGllc18wLjEuMTlfeDY0LXNldHVwLmV4ZQppVDljeE5rd2VDbEVoTTk2eU41TllLaVFYZDNCZ1RQaXd0akRZcnArKzBEblkwRW5UKzRZYUlya2JVZGV5N2ZiZW5LandQRitDR2t0ek92QkdHMmFDUT09Cg==","url":"https://github.com/pupsicles/pup/releases/download/v0.1.19/Puppies_0.1.19_x64-setup.exe"}}}
