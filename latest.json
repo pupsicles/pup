@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "Adds direct-message controls for friends: start and close DMs, unfriend users, and block users to prevent future contact.",
-  "pub_date": "2026-09-15T17:20:38.000Z",
+  "version": "0.1.13",
+  "notes": "Adds persistent pinned DMs, click-away notification dismissal, and per-notification sound choices. This bridge release establishes a replacement updater key for future automatic updates.",
+  "pub_date": "2026-09-19T20:42:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaGcwdEg5bU9pc0FtdUJCZ1pXcDdVbXhxUzhBQVZOYlhma1pTNW93U2pJVHFlSjZsdTBpWlNld2crRmhWbXJOdlJVc2pONXVHOXNLNWhPZ3FWSkM5YXlGS0tDbW5Ka2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDkyODM4CWZpbGU6UHVwcGllc18wLjEuMTBfeDY0LXNldHVwLmV4ZQp1dy9kZDBIa20rZ2JHczRabW5BNkJRRlJTMkxwY0ZPQ2dobmRrdmxBYXovMFBZNDQ0aHR4QzJydmQrV2M3TGovaGpLQzU1bGp5bWw0bFdrTU9qTWRDUT09Cg==",
-      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.10/Puppies_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMHlOalRqK25aY1lFRFpFOU1IZ2VqQ3pJU0IyZEo0Sm04TkN5TDMxQVJJa3dwOG9uckxkUTlzUzV2cE1pS0dsQnk2bTVZWlkwSlB2aUxtSmlvVHE1WFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODUwNTExCWZpbGU6UHVwcGllc18wLjEuMTNfeDY0LXNldHVwLmV4ZQpaTzVocFYvQ1lSb2tmWWZGeVVZZFp2TnJvalpJNHhNN2xCOTF4WEw5c1JmeitTZWQxWXBYZlNrYWo1WnN5OHRBeHpWTW9raVdwRzZ5dEhILzRLYitEdz09Cg==",
+      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.13/Puppies_0.1.13_x64-setup.exe"
     }
   }
 }
