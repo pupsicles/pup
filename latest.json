@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "Adds mood controls to Home and Quick Launch, Spotify play/pause and next controls, and support for multiple pinned toolbar applications.",
-  "pub_date": "2026-09-19T22:45:00.000Z",
+  "version": "0.1.15",
+  "notes": "Adds pet co-parent removal, current co-owner visibility, and clearer left-to-right pet care stats.",
+  "pub_date": "2026-09-19T22:55:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMDdlNlErcG1YUlp5NXcrUHlLTVdZcld5V0FmNVBTNE41d2g4RUZpOVh6ZlRkZFNHMXBvcDFhaXpmck5ETjFvUjd6R0YzQjVNZTBhbE5LdXpUbGtRYXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU3ODkxCWZpbGU6UHVwcGllc18wLjEuMTRfeDY0LXNldHVwLmV4ZQpBaDlBUDhsamhSSHFwQjJ3ZTVXTGJVV1lYMzA2bFhic0hxN0c3d2k1N3RndVhnVmdkMXUwQzdpV0U3dFlGVVdqdkxFK2pjQXE0RzBWRkd1ZEE4YlJCQT09Cg==",
-      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.14/Puppies_0.1.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWlycjVqY3hNMHprS3daUlVMQU9EZGZsZnVGcVlwUWNQa0RxM1haQ1FRUFhFRXhsZFdvMjBVVDg2MlJOTXdLTmNMK3pVTmR2Nkw3b2FyU1dyMk81M3BISjRwNlA3ZXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU4NDA4CWZpbGU6UHVwcGllc18wLjEuMTVfeDY0LXNldHVwLmV4ZQpQQSsxeng2c1pqZW5CNHZCc0ZxUTM4TG9FUGt5YkFZWVVYV0lSem1GSzV4TEVvREZOK1UyN3VneHpBMTFSNjkxZGRnN2piS2hIWE1SeTkwem96QUtEdz09Cg==",
+      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.15/Puppies_0.1.15_x64-setup.exe"
     }
   }
 }
