@@ -1,10 +1,12 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Puppies",
-  "version": "0.1.8",
+  "productName": "Soul Ties",
+  "mainBinaryName": "soul-ties",
+  "version": "0.1.22",
   "identifier": "com.puppies.desktop",
   "build": { "beforeDevCommand": "npm run dev", "devUrl": "http://localhost:1420", "beforeBuildCommand": "npm run build", "frontendDist": "../dist" },
-  "app": { "windows": [{ "label": "main", "title": "Puppies", "width": 1220, "height": 760, "minWidth": 940, "minHeight": 620, "decorations": false, "transparent": true, "resizable": true, "center": true }], "security": { "csp": "default-src 'self'; img-src 'self' asset: data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://*.supabase.co https://api.spotify.com https://accounts.spotify.com https://discord.com https://*.discord.com; media-src 'self' https:;" } },
-  "plugins": { "deep-link": { "desktop": { "schemes": ["puppies-spotify-login", "puppies-discord-login"] } }, "updater": { "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEIwQTI2M0Y2NDc0QjgzRTEKUldUaGcwdEg5bU9pc0owbzFRVi9XQ3I2S01QTEhWcXkzTlc5QUk4MFRzN0tMV1VHY2tJSm9ZcjUK", "endpoints": ["https://raw.githubusercontent.com/pupsicles/pup/main/latest.json"] } },
-  "bundle": { "active": true, "targets": "all", "createUpdaterArtifacts": true, "icon": ["icons/icon.ico"], "windows": { "wix": { "language": "en-US" } } }
+  "app": { "windows": [{ "label": "main", "title": "Soul Ties", "width": 1220, "height": 760, "minWidth": 940, "minHeight": 620, "dragDropEnabled": false, "decorations": false, "transparent": true, "resizable": true, "center": true }], "security": { "csp": "default-src 'self'; img-src 'self' asset: data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://*.supabase.co https://api.spotify.com https://accounts.spotify.com https://discord.com https://*.discord.com; media-src 'self' data: blob: https:;" } },
+  "plugins": { "deep-link": { "desktop": { "schemes": ["soul-ties-login", "puppies-spotify-login", "puppies-discord-login"] } }, "updater": { "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQzNENDQzhERjlCQThBQzgKUldUSWlycjVqY3hNMDBRUEJaaGplTU4xNEVNRjEyVG9XdzJKdXpEMUtYeng5Mlg2cjM2UytSRk4K", "endpoints": ["https://raw.githubusercontent.com/pupsicles/pup/main/latest.json"] } },
+  "bundle": { "active": true, "targets": "all", "createUpdaterArtifacts": true, "useLocalToolsDir": true, "icon": ["icons/icon.ico"], "windows": { "wix": { "language": "en-US" } } }
 }
+
